@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="week01.c">
+    <ClCompile Include="quiz 1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz 2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz 3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

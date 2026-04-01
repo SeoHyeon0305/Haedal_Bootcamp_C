@@ -1,0 +1,6 @@
+﻿  quiz 1.c
+  quiz 2.c
+  코드를 생성하고 있습니다...
+  LINK : C:\Users\hbw75\OneDrive\Desktop\root\과제 2\x64\Debug\과제 2.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+quiz 2.obj : error LNK2005: main이(가) quiz 1.obj에 이미 정의되어 있습니다.
+C:\Users\hbw75\OneDrive\Desktop\root\과제 2\x64\Debug\과제 2.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
